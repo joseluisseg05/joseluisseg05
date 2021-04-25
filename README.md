@@ -7,4 +7,5 @@
 
 ### Find me here :point_down: 
 ___
-- [Via Linkendin](https://www.linkedin.com/in/jose-luis-g-m3519)
+- :briefcase: [Via Linkendin](https://www.linkedin.com/in/jose-luis-g-m3519) 
+
