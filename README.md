@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 ## Something About Me
 <!-- Any image aligned to the right. Beware the width -->
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/joseluisseg05/images/main/fondo.jpg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/joseluisseg05/images/main/fondo.jpg" />
 <!--https://raw.githubusercontent.com/joseluisseg05/images/main/JLGM2.jpeg-->
 <!--https://raw.githubusercontent.com/joseluisseg05/images/main/fondo.jpg-->
 I am a software engineer interested in any type of technology to carry out developments. Currently I am focusing on backend development with Node.js (Express and Sails.js), I have also worked with databases such as MongoDB, MySql and SQLServer.
